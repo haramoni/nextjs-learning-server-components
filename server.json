@@ -1,3 +1,40 @@
 {
-  "tags": [{ "slug": "react" }, { "slug": "next" }, { "slug": "tailwind" }]
+  "tags": [
+    {
+      "slug": "react",
+      "id": "6aeb"
+    },
+    {
+      "slug": "next",
+      "id": "d85e"
+    },
+    {
+      "slug": "tailwind",
+      "id": "dae0"
+    },
+    {
+      "id": "cc31",
+      "slug": "vue"
+    },
+    {
+      "id": "f833",
+      "slug": "angular"
+    },
+    {
+      "id": "9994",
+      "slug": "remix"
+    },
+    {
+      "id": "e2f8",
+      "slug": "teste"
+    },
+    {
+      "id": "e707",
+      "slug": "asdasd"
+    },
+    {
+      "id": "461a",
+      "slug": "teste"
+    }
+  ]
 }
